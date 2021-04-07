@@ -1,0 +1,76 @@
+body
+{
+    font-family: 'Skranji', cursive;
+    background: rgb(130, 243, 136);
+}
+ .header_div
+ {
+     background: rgb(255, 134, 78) ;
+     color: rgb(255, 206, 223);
+ }
+.header_div img
+{
+width: 100px;
+}
+.main_div
+{
+    background:rgb(224, 215, 217);
+    padding:10px;
+    margin-top: 15px;
+    border:3px solid rgb(27, 26, 26);
+}
+.main_div label
+{
+    background: burlywood;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 10px 10px 18px burlywood;
+}
+#camera,#result
+{
+    border:3px solid rgb(231, 180, 180);
+width:310px;
+height:300px;
+box-shadow: 10px 10px 18px burlywood;
+
+}
+.main_div button
+{
+    width:310px;
+    font-size: 20px;
+    box-shadow: 10px 10px 18px burlywood;
+    border:3px solid rgb(231, 180, 180);
+
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+    background:rgb(255, 46, 46);
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px burlywood;
+
+}
+.footer_div img
+{
+    width: 50px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    font-size: 20px;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(255, 105, 67);
+    line-height: 3;
+    text-align: center;
+}
+
+
+
+
